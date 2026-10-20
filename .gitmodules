@@ -16,3 +16,6 @@
 [submodule "JavaScript/pre-entrega-6"]
 	path = JavaScript/pre-entrega-6
 	url = https://github.com/benjamurilloo/pre-entrega-6-javascript.git
+[submodule "JavaScript/pre-entrega-7"]
+	path = JavaScript/pre-entrega-7
+	url = https://github.com/benjamurilloo/pre-entrega-7-javascript.git
