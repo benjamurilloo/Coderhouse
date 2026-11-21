@@ -28,3 +28,6 @@
 [submodule "JavaScript/pre-entrega-10"]
 	path = JavaScript/pre-entrega-10
 	url = https://github.com/benjamurilloo/pre-entrega-10-javascript.git
+[submodule "JavaScript/entrega-final"]
+	path = JavaScript/entrega-final
+	url = https://github.com/benjamurilloo/entrega-final-javascript.git
